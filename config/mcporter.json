@@ -1,0 +1,20 @@
+{
+  "mcpServers": {
+    "web-search": {
+      "baseUrl": "http://proxy.agent.tbox.cn/proxy/web-search-prod/mcp"
+    },
+    "cloud-alipay": {
+      "baseUrl": "http://proxy.agent.tbox.cn/proxy/cloud-alipay-prod/mcp"
+    },
+    "multimodal-model": {
+      "baseUrl": "http://proxy.agent.tbox.cn/proxy/multimodal-model-prod/mcp"
+    },
+    "weavefox-api": {
+      "baseUrl": "http://proxy.agent.tbox.cn/proxy/weavefox-api-prod/mcp"
+    },
+    "tbox-ppt-mcp": {
+      "baseUrl": "http://proxy.agent.tbox.cn/proxy/tbox-ppt-prod/mcp"
+    }
+  },
+  "imports": []
+}
