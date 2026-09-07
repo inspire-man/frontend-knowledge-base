@@ -17,7 +17,7 @@
 
 每篇文章固定骨架:
 
-1. **头部元信息**:所属卷 / 难度 / 阅读时间 / 状态
+1. **头部元信息**:所属卷 / 阅读时间
 2. **引言**:为什么学、和前后章节的关联
 3. **正文**:概念 → 原理图解 → 可运行代码 → 易错点
 4. **小结**:一张图/表收束
@@ -30,3 +30,9 @@
 
 - 总体进度:**8 / 8(卷一完成 ✅)**
 - 下一篇:进入卷二 · 浏览器工作原理
+
+## 权威延伸阅读
+
+- ECMAScript 语言规范(TC39) https://tc39.es/ecma262/
+- MDN《JavaScript》 https://developer.mozilla.org/zh-CN/docs/Web/JavaScript
+- javascript.info(现代 JS 教程) https://javascript.info/

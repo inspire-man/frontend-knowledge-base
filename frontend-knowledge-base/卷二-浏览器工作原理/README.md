@@ -26,3 +26,9 @@
 
 - 总体进度:**7 / 7(卷二完成 ✅)**
 - 下一篇:进入卷四 · 网络与通信
+
+## 权威延伸阅读
+
+- Chrome Developers《Inside look at modern web browser》 https://developer.chrome.com/blog/inside-browser-part1/
+- web.dev《Performance》 https://web.dev/learn/performance
+- MDN《Populating the page》 https://developer.mozilla.org/zh-CN/docs/Web/Performance/How_browsers_work

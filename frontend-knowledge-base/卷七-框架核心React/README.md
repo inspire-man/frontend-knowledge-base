@@ -23,3 +23,8 @@
 
 - 总体进度:**8 / 8(卷七完成 ✅)**
 - 下一篇:进入卷八 · TypeScript
+
+## 权威延伸阅读
+
+- react.dev https://react.dev/
+- Next.js 文档 https://nextjs.org/docs

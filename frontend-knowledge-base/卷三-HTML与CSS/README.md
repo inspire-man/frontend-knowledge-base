@@ -26,3 +26,9 @@
 
 - 总体进度:**7 / 7(卷三完成 ✅)**
 - 下一篇:进入卷四 · 网络与通信
+
+## 权威延伸阅读
+
+- MDN《CSS》 https://developer.mozilla.org/zh-CN/docs/Web/CSS
+- MDN《HTML》 https://developer.mozilla.org/zh-CN/docs/Web/HTML
+- CSSWG 规范草案 https://drafts.csswg.org/

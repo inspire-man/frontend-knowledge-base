@@ -21,3 +21,8 @@
 
 - 总体进度:**6 / 6(卷九完成 ✅)**
 - 下一篇:进入卷十 · 性能优化与工程质量
+
+## 权威延伸阅读
+
+- Node.js 官方文档 https://nodejs.org/docs/
+- libuv https://docs.libuv.org/

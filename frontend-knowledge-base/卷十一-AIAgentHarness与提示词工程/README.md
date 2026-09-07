@@ -22,3 +22,9 @@
 ## 进度追踪
 
 - 总体进度:**8 / 8(卷十一完成 ✅)**
+
+## 权威延伸阅读
+
+- Anthropic《Building Effective Agents》 https://www.anthropic.com/research/building-effective-agents
+- OpenAI《harness-engineering》 https://openai.com/index/harness-engineering/
+- Anthropic《Prompt Engineering》 https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/overview

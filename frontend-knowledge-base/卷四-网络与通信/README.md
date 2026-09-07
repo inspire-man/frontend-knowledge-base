@@ -26,3 +26,9 @@
 
 - 总体进度:**7 / 7(卷四完成 ✅)**
 - 下一篇:进入卷五 · 构建与工程化
+
+## 权威延伸阅读
+
+- MDN《HTTP》 https://developer.mozilla.org/zh-CN/docs/Web/HTTP
+- HTTP 语义规范(RFC 9110) https://httpwg.org/specs/rfc9110.html
+- OWASP Top 10 https://owasp.org/www-project-top-ten/

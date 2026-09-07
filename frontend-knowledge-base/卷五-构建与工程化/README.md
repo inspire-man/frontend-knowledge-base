@@ -27,3 +27,10 @@
 
 - 总体进度:**8 / 8(卷五完成 ✅)**
 - 下一篇:进入卷六 · Vue3 框架核心
+
+## 权威延伸阅读
+
+- webpack https://webpack.js.org/
+- Vite https://vitejs.dev/
+- Rollup https://rollupjs.org/
+- pnpm https://pnpm.io/

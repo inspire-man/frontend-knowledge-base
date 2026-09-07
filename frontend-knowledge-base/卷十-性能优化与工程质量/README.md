@@ -23,3 +23,9 @@
 
 - 总体进度:**8 / 8(卷十完成 ✅)**
 - 下一篇:进入卷十一 · AI Agent Harness 与提示词工程
+
+## 权威延伸阅读
+
+- web.dev《Performance》 https://web.dev/learn/performance
+- Vitest https://vitest.dev/
+- Playwright https://playwright.dev/

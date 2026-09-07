@@ -26,3 +26,8 @@
 
 - 总体进度:**7 / 7(卷六完成 ✅)**
 - 下一篇:进入卷七 · React 框架核心
+
+## 权威延伸阅读
+
+- Vue 官方文档 https://cn.vuejs.org/
+- Vue RFC https://github.com/vuejs/rfcs
