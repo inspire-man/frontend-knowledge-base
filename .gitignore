@@ -1,0 +1,13 @@
+# 个人/运行文件 —— 不进入公开仓库
+AGENTS.md
+SOUL.md
+IDENTITY.md
+USER.md
+TOOLS.md
+HEARTBEAT.md
+memory/
+config/
+.openclaw/
+node_modules/
+.DS_Store
+*.log
