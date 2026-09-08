@@ -71,6 +71,16 @@ export default withMermaid(
             { text: '发布订阅·数组方法', link: '/附录A-手写系列/A5-手写发布订阅与数组方法' },
           ],
         },
+        {
+          text: '附录 B · 对比清单',
+          collapsed: true,
+          items: [
+            { text: 'Vue vs React', link: '/附录B-对比清单/B1-Vue与React对比' },
+            { text: '构建工具对比', link: '/附录B-对比清单/B2-构建工具对比' },
+            { text: '网络请求对比', link: '/附录B-对比清单/B3-网络请求对比' },
+            { text: '包管理与渲染模式对比', link: '/附录B-对比清单/B4-包管理与渲染模式对比' },
+          ],
+        },
       ],
       search: { provider: 'local' },
       outline: { level: [2, 3], label: '本页目录' },
