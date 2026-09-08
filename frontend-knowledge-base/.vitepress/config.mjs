@@ -81,6 +81,11 @@ export default withMermaid(
             { text: '包管理与渲染模式对比', link: '/附录B-对比清单/B4-包管理与渲染模式对比' },
           ],
         },
+        {
+          text: '附录 C · 术语表',
+          collapsed: true,
+          items: [{ text: '术语速查', link: '/附录C-术语表/' }],
+        },
       ],
       search: { provider: 'local' },
       outline: { level: [2, 3], label: '本页目录' },
