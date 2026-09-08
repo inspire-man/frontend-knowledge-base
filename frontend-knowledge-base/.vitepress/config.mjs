@@ -84,7 +84,7 @@ export default withMermaid(
         {
           text: '附录 C · 术语表',
           collapsed: true,
-          items: [{ text: '术语速查', link: '/附录C-术语表/' }],
+          items: [{ text: '术语速查', link: '/附录C-术语表/README' }],
         },
       ],
       search: { provider: 'local' },
