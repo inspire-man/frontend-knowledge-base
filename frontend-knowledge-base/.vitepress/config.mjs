@@ -51,6 +51,7 @@ export default withMermaid(
     lang: 'zh-CN',
     themeConfig: {
       nav: [
+        { text: '首页', link: '/' },
         { text: '总目录', link: '/00-知识地图与总目录' },
         { text: 'GitHub', link: 'https://github.com/inspire-man/frontend-knowledge-base' },
       ],
@@ -91,6 +92,10 @@ export default withMermaid(
       outline: { level: [2, 3], label: '本页目录' },
       docFooter: { prev: '上一篇', next: '下一篇' },
       lastUpdated: { text: '最后更新' },
+      darkModeSwitchLabel: '暗色',
+      lightModeSwitchLabel: '亮色',
+      sidebarMenuLabel: '目录',
+      returnToTopLabel: '返回顶部',
     },
     markdown: { lineNumbers: true },
     ignoreDeadLinks: true,
