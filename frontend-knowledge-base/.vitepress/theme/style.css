@@ -53,6 +53,11 @@
   margin: 16px 0;
   text-align: center;
   overflow-x: auto;
+  overflow-y: visible;
+}
+.mermaid svg {
+  max-width: 100%;
+  height: auto;
 }
 .dark .mermaid {
   background: #0f172a;

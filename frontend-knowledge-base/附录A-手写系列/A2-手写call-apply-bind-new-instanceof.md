@@ -22,7 +22,7 @@ Function.prototype.myApply = function (ctx, args = []) {
 };
 ```
 
-> 核心:`obj.fn()` 时 this = obj(隐式绑定),所以"临时挂上去调用"就是最朴素实现。用 `Symbol` 避免污染/覆盖同名属性。
+> `obj.fn()` 时 this = obj(隐式绑定),所以"临时挂上去调用"就是最朴素实现。用 `Symbol` 避免污染/覆盖同名属性。
 
 ---
 

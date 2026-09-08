@@ -99,5 +99,10 @@ export default withMermaid(
     },
     markdown: { lineNumbers: true },
     ignoreDeadLinks: true,
+    mermaid: {
+      theme: 'default',
+      flowchart: { htmlLabels: true, nodeSpacing: 45, rankSpacing: 55, padding: 8 },
+      themeVariables: { fontSize: '13px' },
+    },
   })
 )
