@@ -60,6 +60,17 @@ export default withMermaid(
           items: [{ text: '知识地图与总目录', link: '/00-知识地图与总目录' }],
         },
         ...buildSidebar(),
+        {
+          text: '附录 A · 手写系列',
+          collapsed: true,
+          items: [
+            { text: '手写 Promise', link: '/附录A-手写系列/A1-手写Promise' },
+            { text: 'call·apply·bind·new·instanceof', link: '/附录A-手写系列/A2-手写call-apply-bind-new-instanceof' },
+            { text: '防抖·节流·柯里化', link: '/附录A-手写系列/A3-手写防抖节流与柯里化' },
+            { text: '深拷贝·pLimit', link: '/附录A-手写系列/A4-手写深拷贝与并发控制' },
+            { text: '发布订阅·数组方法', link: '/附录A-手写系列/A5-手写发布订阅与数组方法' },
+          ],
+        },
       ],
       search: { provider: 'local' },
       outline: { level: [2, 3], label: '本页目录' },
