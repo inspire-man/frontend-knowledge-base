@@ -18,7 +18,7 @@
 
 ## 参考来源
 
-- 官方:Anthropic(Claude)、OpenAI 文档;《Building Effective Agents》等业界文章;LangChain/OpenAgents 等实现
+- 官方:[Anthropic](https://www.anthropic.com/)(Claude)、[OpenAI 文档](https://platform.openai.com/docs);《Building Effective Agents》等业界文章;LangChain/OpenAgents 等实现
 
 ---
 
@@ -28,6 +28,6 @@
 
 ## 权威延伸阅读
 
-- Anthropic《Building Effective Agents》 https://www.anthropic.com/research/building-effective-agents
+- [Anthropic](https://www.anthropic.com/)《Building Effective Agents》 https://www.anthropic.com/research/building-effective-agents
 - OpenAI《harness-engineering》 https://openai.com/index/harness-engineering/
-- Anthropic《Prompt Engineering》 https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/overview
+- [Anthropic](https://www.anthropic.com/)《Prompt Engineering》 https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/overview

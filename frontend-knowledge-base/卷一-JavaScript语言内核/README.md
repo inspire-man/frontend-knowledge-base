@@ -34,5 +34,5 @@
 ## 权威延伸阅读
 
 - ECMAScript 语言规范(TC39) https://tc39.es/ecma262/
-- MDN《JavaScript》 https://developer.mozilla.org/zh-CN/docs/Web/JavaScript
+- [MDN《JavaScript》](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript) https://developer.mozilla.org/zh-CN/docs/Web/JavaScript
 - javascript.info(现代 JS 教程) https://javascript.info/

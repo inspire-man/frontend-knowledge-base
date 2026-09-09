@@ -11,7 +11,7 @@
 
 ## 参考来源
 
-- 官方:TypeScript Handbook、Type Challenges
+- 官方:[TypeScript Handbook](https://www.typescriptlang.org/docs/handbook/)、Type Challenges
 
 ---
 

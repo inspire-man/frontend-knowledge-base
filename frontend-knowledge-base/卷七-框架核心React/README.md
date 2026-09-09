@@ -15,7 +15,7 @@
 
 ## 参考来源
 
-- 官方:react.dev、Next.js 文档、React 官方博客
+- 官方:[react.dev](https://react.dev/)、[Next.js 文档](https://nextjs.org/docs)、React 官方博客
 
 ---
 
@@ -26,5 +26,5 @@
 
 ## 权威延伸阅读
 
-- react.dev https://react.dev/
-- Next.js 文档 https://nextjs.org/docs
+- [react.dev](https://react.dev/) https://[react.dev](https://react.dev/)/
+- [Next.js 文档](https://nextjs.org/docs) https://nextjs.org/docs

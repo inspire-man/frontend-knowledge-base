@@ -15,7 +15,7 @@
 
 ## 参考来源
 
-- 官方:webpack、Vite、Rollup、Rolldown、pnpm 文档
+- 官方:webpack、Vite、Rollup、Rolldown、[pnpm 文档](https://pnpm.io/)
 
 ## 写作规范(v2)
 

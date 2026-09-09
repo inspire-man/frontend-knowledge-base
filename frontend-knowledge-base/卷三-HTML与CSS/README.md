@@ -14,7 +14,7 @@
 
 ## 参考来源
 
-- 官方:MDN CSS、CSSWG 规范草案、Web.dev
+- 官方:MDN CSS、CSSWG 规范草案、[Web.dev](https://web.dev/)
 
 ## 写作规范(全库统一)
 
@@ -29,6 +29,6 @@
 
 ## 权威延伸阅读
 
-- MDN《CSS》 https://developer.mozilla.org/zh-CN/docs/Web/CSS
-- MDN《HTML》 https://developer.mozilla.org/zh-CN/docs/Web/HTML
+- [MDN《CSS》](https://developer.mozilla.org/zh-CN/docs/Web/CSS) https://developer.mozilla.org/zh-CN/docs/Web/CSS
+- [MDN《HTML》](https://developer.mozilla.org/zh-CN/docs/Web/HTML) https://developer.mozilla.org/zh-CN/docs/Web/HTML
 - CSSWG 规范草案 https://drafts.csswg.org/

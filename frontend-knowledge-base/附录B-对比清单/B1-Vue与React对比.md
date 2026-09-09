@@ -56,4 +56,4 @@
 
 ---
 
-📎 参考:Vue 官方文档、react.dev、卷六/卷七对应章节
+📎 参考:[Vue 官方文档](https://cn.vuejs.org/)、[react.dev](https://react.dev/)、卷六/卷七对应章节

@@ -14,7 +14,7 @@
 
 ## 参考来源
 
-- 官方:MDN HTTP、RFC 7230/9110、OWASP
+- 官方:MDN HTTP、RFC 7230/9110、[OWASP](https://owasp.org/)
 
 ## 写作规范(v2)
 
@@ -29,6 +29,6 @@
 
 ## 权威延伸阅读
 
-- MDN《HTTP》 https://developer.mozilla.org/zh-CN/docs/Web/HTTP
-- HTTP 语义规范(RFC 9110) https://httpwg.org/specs/rfc9110.html
-- OWASP Top 10 https://owasp.org/www-project-top-ten/
+- [MDN《HTTP》](https://developer.mozilla.org/zh-CN/docs/Web/HTTP) https://developer.mozilla.org/zh-CN/docs/Web/HTTP
+- [HTTP 语义规范](https://httpwg.org/specs/rfc9110.html)(RFC 9110) https://httpwg.org/specs/rfc9110.html
+- [OWASP](https://owasp.org/) Top 10 https://owasp.org/www-project-top-ten/

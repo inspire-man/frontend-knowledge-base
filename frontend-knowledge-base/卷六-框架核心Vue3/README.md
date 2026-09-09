@@ -14,7 +14,7 @@
 
 ## 参考来源
 
-- 官方:Vue 官方文档、Vue RFC、Vapor Mode 讨论
+- 官方:[Vue 官方文档](https://cn.vuejs.org/)、[Vue RFC](https://github.com/vuejs/rfcs)、Vapor Mode 讨论
 
 ## 写作规范(v2)
 
@@ -29,5 +29,5 @@
 
 ## 权威延伸阅读
 
-- Vue 官方文档 https://cn.vuejs.org/
-- Vue RFC https://github.com/vuejs/rfcs
+- [Vue 官方文档](https://cn.vuejs.org/) https://cn.vuejs.org/
+- [Vue RFC](https://github.com/vuejs/rfcs) https://github.com/vuejs/rfcs
