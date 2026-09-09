@@ -8,7 +8,7 @@
 
 /* 正文:更舒适的行高与字号 */
 .vp-doc {
-  line-height: 1.78;
+  line-height: 24px;
   font-size: 15px;
 }
 
@@ -128,4 +128,32 @@ div[class*='language-']:hover .copy-btn {
 .copy-btn:hover {
   color: var(--vp-c-brand-1);
   border-color: var(--vp-c-brand-1);
+}
+
+/* ===== 阅读体验细节 ===== */
+/* 选中文本高亮 */
+::selection {
+  background: var(--vp-c-brand-1);
+  color: #fff;
+}
+
+/* 平滑滚动(锚点导航) */
+html {
+  scroll-behavior: smooth;
+}
+
+/* 表格行 hover */
+.vp-doc tr:hover {
+  background: var(--vp-c-bg-soft);
+}
+
+/* 链接过渡 */
+.vp-doc a {
+  transition: color 0.15s;
+}
+
+/* 侧边栏当前项强化 */
+.VPSidebarItem.is-active > .item .text {
+  color: var(--vp-c-brand-1);
+  font-weight: 600;
 }
