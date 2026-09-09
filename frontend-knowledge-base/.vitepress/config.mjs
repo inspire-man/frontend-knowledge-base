@@ -101,8 +101,7 @@ export default withMermaid(
     ignoreDeadLinks: true,
     mermaid: {
       theme: 'default',
-      flowchart: { htmlLabels: true, nodeSpacing: 45, rankSpacing: 55, padding: 8 },
-      themeVariables: { fontSize: '13px' },
+      flowchart: { htmlLabels: false, nodeSpacing: 45, rankSpacing: 55, padding: 8 },
     },
   })
 )

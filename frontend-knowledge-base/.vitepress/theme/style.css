@@ -54,15 +54,10 @@
   text-align: center;
   overflow-x: auto;
   overflow-y: visible;
-  line-height: 1.25;
 }
 .mermaid svg {
   max-width: 100%;
   height: auto;
-}
-.mermaid svg text,
-.mermaid svg tspan {
-  line-height: 1.2;
 }
 .dark .mermaid {
   background: #0f172a;
