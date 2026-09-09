@@ -96,6 +96,10 @@ export default withMermaid(
       lightModeSwitchLabel: '亮色',
       sidebarMenuLabel: '目录',
       returnToTopLabel: '返回顶部',
+      footer: {
+        message: '基于 VitePress 构建 · 本地全文搜索 · 图表由 mermaid 渲染',
+        copyright: '© 2026 前端知识库',
+      },
     },
     markdown: { lineNumbers: true },
     ignoreDeadLinks: true,

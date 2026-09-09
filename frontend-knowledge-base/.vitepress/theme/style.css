@@ -103,6 +103,22 @@
   transition: width 0.1s linear;
 }
 
+/* ===== 阅读时长 ===== */
+.reading-time {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 13px;
+  color: var(--vp-c-text-2);
+  margin-bottom: 8px;
+}
+.rt-dot {
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background: var(--vp-c-brand-1);
+}
+
 /* ===== 代码块复制按钮 ===== */
 div[class*='language-'] {
   position: relative;

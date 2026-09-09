@@ -38,14 +38,38 @@ const addCopyButtons = () => {
     })
   })
 }
-onMounted(addCopyButtons)
-watch(() => route.path, addCopyButtons)
+
+// 阅读时长估算(中文约 400 字/分钟)
+const readingTime = ref('')
+const calcReadingTime = () => {
+  setTimeout(() => {
+    const el = document.querySelector('.vp-doc')
+    if (!el) { readingTime.value = ''; return }
+    const chars = (el.innerText || '').replace(/\s/g, '').length
+    const minutes = Math.max(1, Math.round(chars / 400))
+    readingTime.value = `约 ${minutes} 分钟`
+  }, 100)
+}
+
+onMounted(() => {
+  addCopyButtons()
+  calcReadingTime()
+})
+watch(() => route.path, () => {
+  addCopyButtons()
+  calcReadingTime()
+})
 </script>
 
 <template>
   <Layout>
     <template #layout-top>
       <div class="reading-progress" :style="{ width: progress + '%' }"></div>
+    </template>
+    <template #doc-before>
+      <div v-if="readingTime" class="reading-time">
+        <span class="rt-dot"></span>{{ readingTime }}
+      </div>
     </template>
   </Layout>
 </template>
