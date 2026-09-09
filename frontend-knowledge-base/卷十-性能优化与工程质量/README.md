@@ -17,8 +17,6 @@
 
 - 官方:[Web.dev](https://web.dev/)、Lighthouse、Vitest、Playwright 文档
 
----
-
 ## 进度追踪
 
 - 总体进度:**8 / 8(卷十完成 ✅)**

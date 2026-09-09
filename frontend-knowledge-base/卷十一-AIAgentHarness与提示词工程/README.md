@@ -20,8 +20,6 @@
 
 - 官方:[Anthropic](https://www.anthropic.com/)(Claude)、[OpenAI 文档](https://platform.openai.com/docs);《Building Effective Agents》等业界文章;LangChain/OpenAgents 等实现
 
----
-
 ## 进度追踪
 
 - 总体进度:**11 / 11(卷十一完成 ✅)**

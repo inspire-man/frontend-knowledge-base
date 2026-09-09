@@ -13,8 +13,6 @@
 
 - 官方:[TypeScript Handbook](https://www.typescriptlang.org/docs/handbook/)、Type Challenges
 
----
-
 ## 进度追踪
 
 - 总体进度:**4 / 4(卷八完成 ✅)**

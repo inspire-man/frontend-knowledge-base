@@ -3,8 +3,6 @@
 > 附录 A · 手写系列
 > 思路:call/apply 靠"临时挂到对象上调用"改变 this;bind 再叠加柯里化 + 兼容 new。
 
----
-
 ## 一、call / apply(改变 this)
 
 ```js

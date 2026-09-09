@@ -17,8 +17,6 @@
 
 - 官方:[react.dev](https://react.dev/)、[Next.js 文档](https://nextjs.org/docs)、React 官方博客
 
----
-
 ## 进度追踪
 
 - 总体进度:**8 / 8(卷七完成 ✅)**
