@@ -111,4 +111,4 @@ console.log(p instanceof P, p.n);                   // true 1
 
 ---
 
-📎 官方:MDN《Function.prototype.call/apply/bind》《instanceof》
+📎 官方:[MDN call](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Function/call) · [apply](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Function/apply) · [bind](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Function/bind) · [instanceof](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Operators/instanceof)
